@@ -1,2 +1,2 @@
 # pets
-A development repo for the 'pets' package
+A development repo for the `pets` package
